@@ -1,0 +1,29 @@
+[
+  {
+    "phone": "Oppo",
+
+    "price": 11000,
+
+    "category": "electronics",
+
+    "inStock": true
+  },
+  {
+    "phone": "Moto",
+
+    "price": 12000,
+
+    "category": "electronics",
+
+    "inStock": true
+  },
+  {
+    "phone": "I phone",
+
+    "price": 110000,
+
+    "category": "electronics",
+
+    "inStock": true
+  }
+]
